@@ -1,0 +1,11 @@
+services:
+  app:
+    build:
+      context: ./BugFixApp
+      dockerfile: Dockerfile
+  reverse-proxy:
+    build:
+      context: ./ReverseProxy
+      dockerfile: Dockerfile
+    ports:
+      - "8000:80"
