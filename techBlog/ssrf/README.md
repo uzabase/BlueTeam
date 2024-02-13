@@ -1,4 +1,4 @@
-# TechBlogのサンプルコードです
+# [「SSRFの脆弱性について セキュアコーディングの啓蒙 第3回」](https://tech.uzabase.com/draft/entry/wv2j32HqKZoRMgoDhhlMgLVoZYo)のサンプルコードです
 
 SSRFの脆弱性を持つサンプルアプリケーションを作成しました。
 
